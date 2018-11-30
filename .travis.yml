@@ -6,6 +6,7 @@ language: node_js
 branches:
   only:
     - master
+    - test2
     - /^greenkeeper/.*$/
   except:
     - /^v\d+\.\d+\.\d+$/
